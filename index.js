@@ -63,6 +63,7 @@ async function broadcastMessage(data) {
     });
     console.log("✅ 廣播成功：", data);
   } catch (error) {
+    console.error("選擇的語錄：", selectedQuote);
     console.error("❌ 廣播失敗：", error.response?.data || error.message);
   }
 }
