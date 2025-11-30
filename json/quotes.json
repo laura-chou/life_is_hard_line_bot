@@ -3,62 +3,80 @@
     "title": "食物小知識",
     "items": [
       {
-        "quote": "玉米是人類最早改良的作物之一，現代玉米無法自然繁殖，需依賴人類播種才能延續品種。",
-        "summary": "玉米是人類馴化的成果"
-      },
-      {
         "quote": "洋蔥切開後釋放硫化物，與眼睛表面水分反應形成硫酸，刺激淚腺分泌眼淚。冷藏或用水沖切可減少刺激。",
-        "summary": "洋蔥讓你哭，是化學反應"
+        "summary": "Onion讓你哭是化學反應",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/14/onions-1238332_1280.jpg"
       },
       {
         "quote": "起司是透過乳酸菌與酵素分解乳糖與蛋白質製成的。不同菌種與熟成時間造就千變萬化的風味與口感。",
-        "summary": "起司是微生物的藝術品"
+        "summary": "Cheese是微生物的藝術品",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/12/26/11/08/kaseplatte-1108564_640.jpg"
       },
       {
         "quote": "鳳梨含有蛋白酶酵素，可分解蛋白質，因此吃太多會讓嘴巴感到刺痛。這也是鳳梨能軟化肉質的原因。",
-        "summary": "鳳梨不只甜，還會分解你"
+        "summary": "Pineapple不只甜還會分解你",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/04/29/12/47/pineapple-5108775_640.jpg"
       },
       {
         "quote": "泡菜的酸味來自乳酸菌發酵，而非醋。這些菌種能分解蔬菜中的糖分，產生乳酸，同時提升腸道益菌與保存性。",
-        "summary": "泡菜的酸，是微生物的手藝"
+        "summary": " Kimchi的酸是微生物的手藝",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/06/28/03/58/kimchi-2449656_1280.jpg"
       },
       {
         "quote": "蜂蜜的抗菌性來自其高糖濃度、低水活性與天然酵素。當蜂蜜接觸水分時，會釋放微量過氧化氫，抑制細菌生長。",
-        "summary": "蜂蜜是天然的防腐高手"
+        "summary": "Honey是天然的防腐高手",
+        "imageUrl": "https://media.istockphoto.com/id/598241944/photo/honey-in-jar-and-bunch-of-dry-lavender.jpg?b=1&s=612x612&w=0&k=20&c=dFdIOtzku7KAwjVjRKVxB7fXu2vdxDXkgGU5JMPE9UA="
       },
       {
         "quote": "辣椒的辣味來自辣椒素，會刺激痛覺受器而非味覺。這種物質也被用於止痛貼布與防身噴霧。",
-        "summary": "辣椒其實是在欺騙你的神經"
+        "summary": "Chili其實是在欺騙你的神經",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/10/22/21/49/chili-499062_1280.jpg"
       },
       {
         "quote": "牛奶中的乳糖需乳糖酶分解才能吸收。部分成人缺乏乳糖酶，飲用牛奶後會出現腹脹或腹瀉，稱為乳糖不耐症。",
-        "summary": "不是每個人都能喝牛奶"
+        "summary": "不是每個人都能喝Milk",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/07/05/15/41/milk-2474993_1280.jpg"
       },
       {
         "quote": "黑胡椒的辛辣來自胡椒鹼，能刺激胃液分泌並促進消化。它也具有抗氧化與抗菌性，是歷史上重要的貿易香料。",
-        "summary": "黑胡椒是香料界的老大哥"
+        "summary": "Black pepper是香料界的老大哥",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/08/19/15/32/pepper-5501218_1280.jpg"
       },
       {
         "quote": "冰淇淋的口感來自脂肪、糖與空氣的比例。工業製程會打入空氣，使冰淇淋更蓬鬆，稱為『膨脹率』。",
-        "summary": "冰淇淋的綿密，是空氣的功勞"
+        "summary": "Ice cream的綿密是空氣的功勞",
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/01/18/13/02/ice-cream-5928080_1280.jpg"
       },
       {
         "quote": "茶葉中的單寧與咖啡因會隨浸泡時間而改變。短泡偏清香，長泡則苦澀且刺激性較強。",
-        "summary": "茶的性格，泡久了會變"
+        "summary": "Tea leaves的性格泡久了會變",
+        "imageUrl": "https://pixabay.com/photos/green-tea-tea-green-healthy-leaf-1233874/"
       },
       {
         "quote": "香蕉含有微量輻射，主要來自鉀-40，但你必須同時吃下超過一千萬根香蕉才可能造成健康危害。",
-        "summary": "香蕉是輻射界的溫柔代表"
+        "summary": "Banana是輻射界的溫柔代表",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/11/05/23/08/banana-1025109_1280.jpg"
       },
       {
-        "quote": "番茄醬在19世紀曾被當作藥物販售，用於治療消化不良，直到後來才成為常見調味品。",
-        "summary": "番茄醬曾是藥局的常客"
-      }
-    ]
-  },
-  {
-    "title": "食物歷史小知識",
-    "items": [
+        "quote": "白巧克力其實不含任何可可固形物（真正的巧克力成分），它主要由可可脂、糖、牛奶和香草製成。",
+        "summary": "White chocolate是甜點界的優雅冒牌貨",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/06/30/20/05/white-chocolate-380702_1280.jpg"
+      },
+      {
+        "quote": "我們吃的「芥末」（通常是綠色的那種）大部分其實是辣根染色的替代品，真正的日本山葵(Wasabi)非常昂貴且稀有。",
+        "summary": "Wasabi界的偽裝高手",
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/04/06/17/34/wasabi-6156964_1280.jpg"
+      },
+      {
+        "quote": "食用生蠔的風險主要來自於海洋弧菌或諾羅病毒。這些微生物在溫暖的海水中滋生，並無法透過生蠔本身分辨好壞。",
+        "summary": "Oyster是餐桌上的未知冒險",
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/11/18/09/44/oysters-6805970_1280.jpg"
+      },
+      {
+        "quote": "天然魚子醬在歐洲市場禁止添加硼砂外，魚子醬防腐劑使用有嚴格限制，但並非只允許硼砂，且最高級魚子醬多數不添加防腐劑，僅用少許鹽巴保存和提味。",
+        "summary": "Caviar是奢華餐桌的純粹詩篇",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/05/15/19/07/black-caviar-2315831_1280.jpg"
+      },
       {
         "quote": "番茄原產於南美洲，16世紀才被帶到歐洲。初期被當作觀賞植物，義大利人甚至一度以為它有毒。",
         "summary": "Tomato曾是歐洲的毒花",
@@ -487,136 +505,304 @@
     ]
   },
   {
-    "title": "植物小知識",
+    "title": "植物界小知識",
     "items": [
       {
         "quote": "迷迭香原產於地中海，被古希臘人視為記憶之草。現代研究證實其精油成分如鼠尾草酸與1,8-桉葉素具有抗氧化、抗炎與神經保護作用，可提升認知功能並減緩老化。",
-        "summary": "迷迭香是腦力的芳香守護者"
+        "summary": "Rosemary是腦力的芳香守護者",
+        "imageUrl": "https://pixabay.com/photos/rosemary-background-herbs-cook-4341984/"
       },
       {
         "quote": "蒔蘿是繖形科一年生草本植物，原產於地中海與西亞。其葉與種子富含苯丙素與三萜類化合物，具有辛香與消化促進作用，常用於醃漬、海鮮與東歐料理中。",
-        "summary": "蒔蘿是料理裡的清新魔法"
+        "summary": "Dill是料理裡的清新魔法",
+        "imageUrl": "https://pixabay.com/photos/dill-spice-plant-food-herb-green-2826179/"
       },
       {
         "quote": "孜然是繖形科植物孜然芹的種子，含有枯茗醛(Cuminaldehyde)，具有強烈芳香與抗菌性。它能去除肉類腥膻味，常用於燒烤與咖哩中。孜然也富含鐵質與膳食纖維，是香料中少見的營養密度高者。",
-        "summary": "孜然是燒烤的靈魂與鐵質補給站"
+        "summary": "Cumin是燒烤的靈魂與鐵質補給站",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/07/06/14/14/cumin-5377177_1280.jpg"
       },
       {
         "quote": "植物能釋放揮發性有機化合物(VOCs)來警告鄰近植物，例如遭受昆蟲咬食時，鄰近植物會啟動防禦反應，如產生苦味或毒素。",
-        "summary": "植物之間也會互相通風報信"
+        "summary": "Plant之間也會互相通風報信",
+        "imageUrl": "https://cdn.pixabay.com/photo/2023/07/23/17/18/burdock-8145489_1280.jpg"
       },
       {
         "quote": "竹子屬於禾本科植物，一旦開花便會死亡。這種現象稱為「同步開花」，可能間隔數十年，但全球同種竹子會在相近時間開花。",
-        "summary": "竹子開花是生命的告別式"
+        "summary": "Bamboo開花是生命的告別式",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/08/07/13/01/bamboo-2603624_1280.jpg"
+      },
+      {
+        "quote": "仙人掌能在乾旱環境中生存，主要是因為它的莖部肉質厚實，能儲存大量水分；同時仙人掌的莖表面覆蓋有厚厚的蠟質層，有效減少水分蒸散。",
+        "summary": "Cactus是沙漠裡的沉默守護者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/03/05/16/10/cactus-4904784_1280.jpg"
+      },
+      {
+        "quote": "含羞草透過葉枕細胞的水分變化，使葉片在受觸碰時快速下垂閉合。這種行為模仿枯萎狀態，旨在欺騙潛在的捕食者，是一種有效的自我保護策略。",
+        "summary": "Mimosa是植物界的害羞小精靈",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/08/02/00/19/mimosa-407933_1280.jpg"
+      },
+      {
+        "quote": "向日葵因其獨特的向光性而聞名，花盤會追隨太陽的軌跡移動，以最大化光合作用，同時其種子是重要的油脂來源。",
+        "summary": "Sunflower是追光的綠色舞者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/09/22/19/47/sun-flower-2776817_1280.jpg"
+      },
+      {
+        "quote": "玫瑰花語豐富多元，從熱烈的紅玫瑰到純潔的白玫瑰，顏色不僅代表情感，花瓣也富含精油，是香水工業的基石。",
+        "summary": "Rose是香氛界的經典靈魂",
+        "imageUrl": "https://cdn.pixabay.com/photo/2024/05/24/15/53/rose-8785342_1280.jpg"
+      },
+      {
+        "quote": "蓮葉表面微小的奈米結構，使其具備超強的疏水性，水滴會帶走灰塵，確保葉片在泥濘環境中常保潔淨。",
+        "summary": "Lotus是水滴的潔淨舞台",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/08/06/20/41/lotus-7369384_1280.jpg"
+      },
+      {
+        "quote": "薰衣草濃郁的紫色花穗富含芳香油，其鎮靜舒緩的特性使其成為芳香療法中幫助放鬆心情、促進睡眠的明星植物。",
+        "summary": "Lavender是紫色的安眠秘方",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/08/15/14/35/lavender-1595581_1280.jpg"
+      },
+      {
+        "quote": "櫻花花期極其短暫，盛開高峰通常只維持一到兩週便迅速凋零，這種轉瞬即逝的美麗象徵著生命的無常與燦爛。",
+        "summary": "Cherry Blossom是短暫的粉色奇蹟",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/04/01/18/08/cherry-blossoms-7105386_1280.jpg"
+      },
+      {
+        "quote": "蘭花是植物界種類最繁多的家族之一，具有高度專業化的花形結構，吸引特定的昆蟲進行授粉。",
+        "summary": "Orchid是繁盛的花形藝術家",
+        "imageUrl": "https://cdn.pixabay.com/photo/2025/11/06/23/31/23-31-12-277_1280.jpg"
+      },
+      {
+        "quote": "蘆薈凝膠中含有多種維生素、酵素與氨基酸，這些天然成分賦予其卓越的抗炎與保濕功效。",
+        "summary": "Aloe是居家裡的綠色守護者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/09/12/12/aloe-vera-262718_640.jpg"
+      },
+      {
+        "quote": "在17世紀荷蘭「鬱金香狂熱」期間，鬱金香球莖的價格曾被炒作到天價，甚至超過了一棟豪宅的價值。",
+        "summary": "Tulip是歷史裡的投機花夢",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/04/28/16/43/tulip-3357664_1280.jpg"
+      },
+      {
+        "quote": "牡丹花型碩大、色彩艷麗，其根皮是一種傳統中藥材，具有清熱涼血的功效。",
+        "summary": "Peony是庭園裡的藥用巨星",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/06/24/18/51/peony-2438477_960_720.jpg"
+      },
+      {
+        "quote": "茉莉花香氣獨特，通常在夜間或清晨採摘，以確保採集到最飽滿的香氣用於製作茉莉花茶或精油。",
+        "summary": "Jasmine是茶香中的白色精靈",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267074_1280.jpg"
+      },
+      {
+        "quote": "百合花除了象徵純潔與和平，其地下鱗莖富含澱粉質，在亞洲部分地區也被作為一種蔬菜食用。",
+        "summary": "Lily是餐桌上的純白佳人",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/08/10/17/15/white-2625115_1280.jpg"
       }
     ]
   },
   {
-    "title": "科學小知識",
+    "title": "自然科學小知識",
     "items": [
       {
         "quote": "蛋白質在高溫下會變性，導致蛋白質結構改變並凝固。這就是蛋煮熟後由透明變白的原因。",
-        "summary": "煮蛋是蛋白質的變形秀"
-      },
-      {
-        "quote": "夏季因金屬熱脹，埃菲爾鐵塔可增高約15公分。",
-        "summary": "埃菲爾鐵塔會長高"
+        "summary": "煮蛋是Protein的變形秀"
       },
       {
         "quote": "水的沸點並非固定在100°C，而是取決於氣壓。在高海拔地區，氣壓較低，水可能在90°C左右就沸騰；而在高壓鍋中，水的沸點可超過100°C。",
-        "summary": "水的沸點會隨高度改變"
+        "summary": "Water的沸點會隨高度改變"
       },
       {
         "quote": "聲音在水中的傳播速度約為1500公尺/秒，是空氣中的4.3倍。這是因為水分子排列更緊密，能更有效傳遞振動。",
-        "summary": "聲音在水裡跑得更快"
+        "summary": "Sound在水裡跑得更快"
       },
       {
         "quote": "超導體在極低溫下會失去電阻，電流可無損耗地持續流動，應用於磁浮列車與量子電腦。",
-        "summary": "超導體是電流的高速公路"
+        "summary": "Superconductor是電流的高速公路"
       },
       {
         "quote": "光具有粒子與波動的雙重性，這是量子力學的核心現象之一，首次由雙縫實驗觀察到。",
-        "summary": "光既是粒子，也是波"
+        "summary": "Light既是粒子也是波"
       },
       {
         "quote": "黑洞的重力強大到連光都無法逃脫，其事件視界是觀測極限，內部物理定律仍是未解之謎。",
-        "summary": "黑洞是宇宙的終極隱形人"
+        "summary": "Black Hole是宇宙的終極隱形人"
       },
       {
         "quote": "時間會因重力而變慢，這是廣義相對論的預測。靠近地球表面的人，時間比高空中略慢。",
-        "summary": "重力會讓時間慢一點"
+        "summary": "Gravity會讓時間慢一點"
       },
       {
         "quote": "絕對零度(-273.15°C)是理論上最低溫度，此時分子運動趨近靜止，但無法真正達到。",
-        "summary": "絕對零度是冷的極限"
+        "summary": "Absolute zero是冷的極限"
       },
       {
         "quote": "中微子幾乎不與物質作用，每秒有數十億個穿過你的身體而你毫無察覺。",
-        "summary": "中微子是穿透你卻不打招呼的粒子"
+        "summary": "Neutrino是穿透你卻不打招呼的粒子"
       },
       {
         "quote": "地球的自轉逐漸變慢，主要因為月球引力造成潮汐摩擦。這種現象導致每隔幾十萬年，地球一天的長度會增加數秒。",
-        "summary": "地球也會偷懶一點點"
+        "summary": "Earth也會偷懶一點點"
       },
       {
         "quote": "突尼斯的杰日德鹽湖在夏季乾涸時會呈現粉紅色，這是由鹽生菌與藻類產生的色素所致。乾季時湖面反射光線，常出現海市蜃樓現象。",
-        "summary": "粉紅湖是地球的夢幻濾鏡"
+        "summary": "Pink Lake是地球的夢幻濾鏡"
       },
       {
         "quote": "台灣大屯火山區的白土層含有蛋白石質二氧化矽，常呈白色至灰白色塊體，質地脆弱，為火山氣體與熱液作用下形成的次生礦物。",
-        "summary": "台灣也藏著蛋白石的痕跡"
+        "summary": "Datun Volcano留下白色的礦物記憶"
       },
       {
         "quote": "有珠山是北海道著名的活火山，過去百年間曾四度噴發，最近一次為2000年。其火山活動形成了昭和新山與洞爺湖，是日本地質百選之一。",
-        "summary": "有珠山是北海道的火山心跳"
+        "summary": "Mount Usu是北海道的火山心跳"
       },
       {
         "quote": "洞爺湖是由火山爆發後形成的破火山口湖，湖中島嶼為火山活動遺跡。該地區被列為聯合國教科文組織地質公園，展示火山與地形演化的壯觀證據。",
-        "summary": "洞爺湖是火山爆發後的寧靜"
+        "summary": "Lake Toya是火山爆發後的寧靜"
       },
       {
         "quote": "羊蹄山是北海道的休眠火山，外形近似富士山，因此又稱蝦夷富士。其對稱的火山錐是由多次玄武岩質熔岩噴發堆積而成。",
-        "summary": "羊蹄山是北海道的火山鏡像"
+        "summary": "Mount Yotei是北海道的火山鏡像"
       },
       {
         "quote": "地球最古老的岩石約有42億年歷史，發現於加拿大的努沃沃克地區，屬於太古代地殼殘留物。",
-        "summary": "地球的記憶刻在古老岩石中"
+        "summary": "Earth的記憶刻在古老岩石中"
       },
       {
         "quote": "板塊構造理論解釋了地震、火山與山脈的形成。地球表面由數個岩石板塊組成，彼此碰撞、分離或滑動造成地質活動。",
-        "summary": "地球的皮膚會移動與碰撞"
+        "summary": "Earth的皮膚會移動與碰撞"
       },
       {
         "quote": "火山玻璃(黑曜岩)是熔岩迅速冷卻後形成的天然玻璃，無晶體結構，古代常用來製作工具與武器。",
-        "summary": "黑曜岩是火山的冷卻瞬間"
+        "summary": "Obsidian是火山的冷卻瞬間",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/10/27/18/32/obsidian-505332_1280.jpg"
       },
       {
         "quote": "石灰岩主要由碳酸鈣組成，常含有海洋生物殼體化石。經高溫高壓變質後可轉變為大理石，是建築與雕刻常用材料。",
-        "summary": "石灰岩是海洋生命的化石記錄"
+        "summary": "Limestone是海洋生命的化石記錄",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/09/01/17/34/limestone-2704961_1280.jpg"
       },
       {
         "quote": "石英是地殼中最常見的礦物之一，硬度高達莫氏7，具壓電性，可在壓力下產生微弱電流，廣泛應用於電子元件。",
-        "summary": "石英是地球的電子礦物"
+        "summary": "Quartz是地球的電子礦物",
+        "imageUrl": "https://cdn.pixabay.com/photo/2023/05/24/17/03/crystal-8015350_1280.jpg"
       },
       {
         "quote": "地球的最外層岩石圈厚度約100公里，下方是黏稠的軟流圈。岩石圈的移動速度約每年幾公分，卻能塑造山脈與海洋。",
-        "summary": "地球的慢動作造就壯麗地形"
+        "summary": "Earth的慢動作造就壯麗地形"
       },
       {
         "quote": "火山噴發不一定劇烈，若岩漿含氣量低、流動性高，則可能以寧靜方式流出，如夏威夷火山；反之則可能爆炸性噴發。",
-        "summary": "火山的脾氣取決於岩漿的性格"
+        "summary": "Volcano的脾氣取決於岩漿的性格"
       },
       {
         "quote": "地球的磁場來自外核液態鐵的對流運動，稱為地磁發電機效應。這層保護層能偏轉太陽風，守護地球免受輻射傷害。",
-        "summary": "地球的磁場是隱形的防護罩"
+        "summary": "Earth的磁場是隱形的防護罩"
       },
       {
         "quote": "閃電可以在火山爆發時出現，稱為『火山閃電』，是火山灰與氣體摩擦產生靜電放電現象。",
-        "summary": "火山也能召喚雷電"
+        "summary": "Volcano也能召喚雷電"
       },
       {
         "quote": "閃電的溫度可達攝氏三萬度，是太陽表面溫度的五倍以上。",
-        "summary": "閃電比太陽還燙"
+        "summary": "Lightning比太陽還燙"
+      },
+      {
+        "quote": "水星有一條由太陽風形成的鈉原子尾巴，類似彗星。這種尾巴在水星近日點前後最亮，需特殊濾鏡才能觀測。",
+        "summary": "Mercury也偷偷留著尾巴"
+      },
+      {
+        "quote": "金星自轉方向與其他行星相反，且自轉一圈所需時間比公轉還長。也就是說，金星的一天比一年還長。",
+        "summary": "Venus的時間邏輯令人混亂"
+      },
+      {
+        "quote": "土星北極存在一個穩定的六邊形風暴結構，直徑約14,500公里，至今仍在旋轉，是行星氣象學的謎團之一。",
+        "summary": "Saturn的風暴是幾何控"
+      },
+      {
+        "quote": "天王星的自轉軸幾乎平躺在軌道平面上，導致其季節變化極端，每個季節可長達21年。",
+        "summary": "Uranus是橫躺著過日子的"
+      },
+      {
+        "quote": "海王星自1846年被發現以來，至今僅繞太陽公轉一圈，因為它的軌道週期長達165年。",
+        "summary": "Neptune的生日派對還沒輪到第二次"
+      },
+      {
+        "quote": "冥王星雖被重新分類為矮行星，但其表面有冰山、氮冰平原與可能的地下海洋，地質活動仍持續中。",
+        "summary": "Pluto雖小卻活得精彩"
+      },
+      {
+        "quote": "月球上埋葬了一位地球人——天文學家尤金・舒梅克的骨灰由NASA探測器送上月球，成為唯一在月球長眠的人類。",
+        "summary": "Moon上有一段人類的紀念"
+      },
+      {
+        "quote": "火星的日落呈現藍色，這是因為火星大氣中細小的塵埃粒子會散射紅光，讓藍光在太陽低落時更容易穿透並抵達觀察者眼中。",
+        "summary": "Mars的黃昏有藍色浪漫"
+      },
+      {
+        "quote": "極光不只出現在地球，木星、土星與天王星也有極光現象，由其強大磁場與太陽風互動所致。",
+        "summary": "Aurora是星球的磁場簽名"
+      },
+      {
+        "quote": "極光主要出現在磁緯度60–75度之間，形成環狀分布，稱為『極光環』。地磁暴時可擴展至中緯度地區。",
+        "summary": "Aurora環是地球的能量光圈"
+      },
+      {
+        "quote": "極光的光子來自高能粒子激發大氣分子後釋放的能量，屬於電磁輻射的一種，波長範圍涵蓋可見光與紫外線。",
+        "summary": "Aurora是粒子激發的光之回應"
+      },
+      {
+        "quote": "太陽不是靜止不動的，它以每秒約220公里的速度繞銀河系中心公轉。",
+        "summary": "Sun也在宇宙中旅行"
+      },
+      {
+        "quote": "極光的綠色來自氧分子，紅色來自高空氧氣，紫色與粉紅色則來自氮分子。",
+        "summary": "Aurora的色彩是分子在跳舞"
+      },
+      {
+        "quote": "流星是太空中的塵粒或小石塊進入地球大氣層時，因高速摩擦而燃燒發光，速度可達每秒11至72公里，亮度與顏色取決於其成分與燃燒程度。",
+        "summary": "Meteor是太空塵粒的火焰秀"
+      },
+      {
+        "quote": "流星雨的來源通常是彗星留下的碎屑軌道，當地球穿越這些軌道時，碎屑進入大氣層形成壯觀的流星雨，如英仙座與獅子座流星群。",
+        "summary": "Meteor Shower是彗星的尾巴遺跡"
+      },
+      {
+        "quote": "短週期彗星多來自柯伊伯帶，它們的軌道周期通常少於200年，並受到海王星及其他外行星的引力影響。而長週期彗星則起源於位於更遙遠太陽系邊緣的歐特雲，軌道周期可達數千年甚至更久。",
+        "summary": "Comet的故鄉是柯伊伯帶與歐特雲"
+      },
+      {
+        "quote": "青金石是一種變質岩，主要成分是天藍石，常含方解石與黃鐵礦。它呈深藍色，古代常被磨成顏料『群青』，並用於珠寶與裝飾。",
+        "summary": "Lapis Lazuli是地球的藍色寶石顏料",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/06/26/17/44/lapislazuli-3499913_1280.jpg"
+      },
+      {
+        "quote": "蛋白石是一種非晶質二氧化矽礦物，含水量變化大。因光的繞射作用而呈現彩虹般的遊彩效應，是地質與光學交會的奇妙產物。",
+        "summary": "Opal是會閃彩的礦物幻影",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/05/07/20/47/opal-757153_1280.jpg"
+      },
+      {
+        "quote": "綠松石是一種含銅鋁磷酸鹽礦物，呈天藍或綠色。古代常用於飾品與護身符。",
+        "summary": "Turquoise是古文明的藍綠護符",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/05/10/17/50/turquoise-3388170_1280.jpg"
+      },
+      {
+        "quote": "黃鐵礦因金黃色金屬光澤而被稱為『愚人金』，常誤認為是真金。它是硫化物礦物，晶體常呈立方或五角十二面體。",
+        "summary": "Pyrite是閃亮卻迷惑人的愚人金",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/05/16/16/06/pyrite-345635_1280.jpg"
+      },
+      {
+        "quote": "方解石是碳酸鈣礦物，具有雙折射特性，能讓光線分成兩束。冰島產的透明方解石曾用於早期光學儀器。",
+        "summary": "Calcite是光學界的雙折射魔術師",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/07/22/22/16/calcite-geode-2530061_1280.jpg"
+      },
+      {
+        "quote": "拉長石是一種長石礦物，因晶體結構造成光的干涉而呈現藍綠色的『拉長石光』，宛如極光般閃爍。",
+        "summary": "Labradorite是礦物界的極光幻影",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/09/04/12/13/labradorite-4451432_1280.jpg"
+      },
+      {
+        "quote": "方鈉石是一種含鈉鋁矽酸鹽礦物，常呈藍色或紫色。它能在紫外線下發出橙紅色螢光，常被用於裝飾與收藏。",
+        "summary": "Sodalite是會發光的藍色寶石",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/05/10/18/49/sodalite-341397_1280.jpg"
       }
     ]
   },
@@ -678,137 +864,118 @@
       {
         "quote": "在義大利，卡布奇諾通常只在早餐時喝，當地人認為午餐或晚餐後喝加奶咖啡太過沉重。",
         "summary": "想在義大利融入當地？中午後別點卡布奇諾"
+      },
+      {
+        "quote": "羅馬競技場可容納五萬人以上，是古代世界最大的圓形劇場，用於角鬥與表演。",
+        "summary": "羅馬競技場是古代的巨型娛樂中心"
+      },
+      {
+        "quote": "印加帝國的馬丘比丘建於海拔2400公尺的山巔，至今仍是世界文化遺產。",
+        "summary": "馬丘比丘是雲端上的古城"
+      },
+      {
+        "quote": "絲綢之路不僅是商業通道，也是文化交流的橋樑，連結了東西方文明。",
+        "summary": "絲綢之路是古代的文化高速公路"
+      },
+      {
+        "quote": "兵馬俑是秦始皇陵的一部分，數量超過八千，展現了古代軍隊的規模與工藝。",
+        "summary": "兵馬俑是地下的石軍團"
+      },
+      {
+        "quote": "古巴比倫的空中花園被列為世界七大奇景之一，雖然至今仍有爭議是否真實存在。",
+        "summary": "空中花園是古代的綠色幻境"
+      },
+      {
+        "quote": "維京人不僅是戰士，也是航海家，他們的船隻能橫越北大西洋，甚至到達北美洲。",
+        "summary": "維京人是海上的探險勇士"
+      },
+      {
+        "quote": "明清科舉考試中，考生常在衣服或米粒上刻字作弊，監考官需仔細檢查。",
+        "summary": "科舉作弊是古代的考場奇招"
+      },
+      {
+        "quote": "瑪雅人將可可豆磨成苦味飲料，加入辣椒，是貴族與祭祀的專屬飲品。",
+        "summary": "巧克力是瑪雅文明的神聖飲料"
       }
     ]
   },
   {
-    "title": "海洋哺乳類小知識",
+    "title": "海洋生物小知識",
     "items": [
       {
         "quote": "海豚採用『單半球慢波睡眠』，也就是左右腦輪流休息。當左腦休息時，右腦保持清醒以控制呼吸與警戒環境，並閉上對應的右眼。這讓牠們能一邊睡覺一邊緩慢游泳，甚至在睡眠中照顧幼豚。若雙腦同時沉睡，牠們將無法自主呼吸，可能導致窒息。",
-        "summary": "海豚的睡眠是腦力輪班制"
-      },
-      {
-        "quote": "鯨魚採用單半球睡眠模式，讓一半大腦保持清醒以控制呼吸與浮力。牠們通常短暫休息10到30分鐘，期間可能靜止漂浮或緩慢移動。抹香鯨甚至會以垂直姿勢懸浮在水中打盹。這種睡眠方式讓牠們能在不喪失警覺的情況下恢復體力。",
-        "summary": "鯨魚的睡眠像海中冥想"
+        "summary": "Dolphin的睡眠是腦力輪班制",
+        "imageUrl": "https://cdn.pixabay.com/photo/2025/11/26/06/44/dolphin-9977614_960_720.jpg"
       },
       {
         "quote": "座頭鯨的歌聲在海洋中能傳遞超過數百公里，是交流與求偶的重要方式。",
-        "summary": "鯨魚的歌聲能傳千里"
+        "summary": "Humpback Whale的歌聲能傳千里",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/09/05/03/26/humpback-whale-436115_1280.jpg"
       },
       {
-        "quote": "藍鯨的心臟是地球上最大的心臟之一，重量約介於180到600公斤之間，視個體而定。牠的心跳速率會依活動狀態而變化，深潛時可低至每分鐘2下，在海面活動時則會加快。雖然心跳聲無法傳播至3公里外，但藍鯨的低頻鳴叫聲可在海洋中傳播數百公里。",
-        "summary": "藍鯨的心跳與鳴叫，是海洋的低頻節奏"
-      }
-    ]
-  },
-  {
-    "title": "天文小知識",
-    "items": [
-      {
-        "quote": "水星有一條由太陽風形成的鈉原子尾巴，類似彗星。這種尾巴在水星近日點前後最亮，需特殊濾鏡才能觀測。",
-        "summary": "水星也偷偷留著尾巴"
+        "quote": "海象的長牙其實是延長的犬齒，能長達一公尺，用來攀爬冰面、打鬥或展示地位。雄性海象的長牙比雌性更為粗壯。",
+        "summary": "Walrus的長牙是冰海的權杖",
+        "imageUrl":"https://cdn.pixabay.com/photo/2023/06/15/11/04/huddle-of-walrus-8065100_960_720.jpg"
       },
       {
-        "quote": "金星自轉方向與其他行星相反，且自轉一圈所需時間比公轉還長。也就是說，金星的一天比一年還長。",
-        "summary": "金星的時間邏輯令人混亂"
+        "quote": "海牛(又稱美人魚)是草食性海洋哺乳類，主要以海草為食。牠們的游泳速度緩慢，常被誤認為傳說中的人魚。",
+        "summary": "Manatee是海草床上的溫柔巨人",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/07/08/13/38/manatee-387195_1280.jpg"
       },
       {
-        "quote": "土星北極存在一個穩定的六邊形風暴結構，直徑約14,500公里，至今仍在旋轉，是行星氣象學的謎團之一。",
-        "summary": "土星的風暴是幾何控"
+        "quote": "海獺會利用石頭作為工具來敲開貝殼，是少數會使用工具的哺乳類。牠們常常仰躺在水面上邊漂浮邊進食。",
+        "summary": "Sea Otter是海洋裡的工具高手",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/09/11/21/01/otter-441962_1280.jpg"
       },
       {
-        "quote": "天王星的自轉軸幾乎平躺在軌道平面上，導致其季節變化極端，每個季節可長達21年。",
-        "summary": "天王星是橫躺著過日子的"
+        "quote": "北極熊雖然大部分時間在陸地上，但牠們依賴海冰捕食海豹，因此也被歸為海洋哺乳類。牠們能游泳數十公里，耐寒能力驚人。",
+        "summary": "Polar Bear是冰海上的白色獵人",
+        "imageUrl": "https://cdn.pixabay.com/photo/2024/12/13/09/57/polar-bear-9264678_1280.jpg"
       },
       {
-        "quote": "海王星自1846年被發現以來，至今僅繞太陽公轉一圈，因為它的軌道週期長達165年。",
-        "summary": "海王星的生日派對還沒輪到第二次"
+        "quote": "虎鯨是頂級掠食者，分布於全球海洋，牠們有複雜的社會結構與獵食策略。不同族群甚至會發展出獨特的『方言』，用聲音來交流與辨識彼此。",
+        "summary": "Orca是海洋裡的智慧獵人",
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/09/08/11/04/orca-6606760_640.jpg"
       },
       {
-        "quote": "冥王星雖被重新分類為矮行星，但其表面有冰山、氮冰平原與可能的地下海洋，地質活動仍持續中。",
-        "summary": "冥王星雖小，卻活得精彩"
+        "quote": "企鵝雖然是鳥類，但已失去飛行能力，牠們的翅膀演化成鰭狀，用來在水中高速游泳。帝王企鵝能在南極嚴寒中孵蛋，展現驚人的耐寒力。",
+        "summary": "Penguin是冰海中的黑白潛水員",
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/08/27/12/58/emperor-penguins-429128_1280.jpg"
       },
       {
-        "quote": "月球上埋葬了一位地球人——天文學家尤金・舒梅克的骨灰由NASA探測器送上月球，成為唯一在月球長眠的人類。",
-        "summary": "月球上有一段人類的紀念"
+        "quote": "珊瑚其實是動物，與藻類共生，能建造龐大的珊瑚礁生態系。",
+        "summary": "Coral是海洋的建築師",
+        "imageUrl": "https://cdn.pixabay.com/photo/2024/01/09/21/14/ocean-8498452_1280.jpg"
       },
       {
-        "quote": "火星的日落呈現藍色，這是因為火星大氣中細小的塵埃粒子會散射紅光，讓藍光在太陽低落時更容易穿透並抵達觀察者眼中。",
-        "summary": "火星的黃昏有藍色浪漫"
+        "quote": "章魚有三顆心臟，血液呈藍色，並能利用噴墨與偽裝逃避天敵。",
+        "summary": "Octopus是深海的變形高手",
+        "imageUrl": "https://images.pexels.com/photos/3046629/pexels-photo-3046629.jpeg"
       },
       {
-        "quote": "極光不只出現在地球，木星、土星與天王星也有極光現象，由其強大磁場與太陽風互動所致。",
-        "summary": "極光是星球的磁場簽名"
+        "quote": "水母沒有心臟與大腦，靠簡單的神經網絡與肌肉收縮在海中移動。",
+        "summary": "Jellyfish是海洋裡的透明漂流者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/08/21/12/26/jellyfish-5505996_1280.jpg"
       },
       {
-        "quote": "極光主要出現在磁緯度60–75度之間，形成環狀分布，稱為『極光環』。地磁暴時可擴展至中緯度地區。",
-        "summary": "極光環是地球的能量光圈"
+        "quote": "海星能再生斷掉的腕足，甚至能從一隻斷臂再長出完整身體。",
+        "summary": "Starfish是再生的奇蹟生物",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/03/04/15/26/star-1236198_1280.jpg"
       },
       {
-        "quote": "極光的光子來自高能粒子激發大氣分子後釋放的能量，屬於電磁輻射的一種，波長範圍涵蓋可見光與紫外線。",
-        "summary": "極光是粒子激發的光之回應"
+        "quote": "海參遇到危險時會排出內臟作為防禦，之後還能再生。",
+        "summary": "Sea Cucumber是自我重生的海底居民",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/05/25/11/49/scuba-1414587_1280.jpg"
       },
       {
-        "quote": "太陽不是靜止不動的，它以每秒約220公里的速度繞銀河系中心公轉。",
-        "summary": "太陽也在宇宙中旅行"
+        "quote": "海龜能在海洋中長途遷徙，部分物種可跨越數千公里回到出生地繁殖。牠們依靠地球磁場作為導航工具，展現驚人的方向感。",
+        "summary": "Sea Turtle是磁場導航的遠行者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/05/18/09/30/turtle-2323059_1280.jpg"
       },
       {
-        "quote": "極光的綠色來自氧分子，紅色來自高空氧氣，紫色與粉紅色則來自氮分子。",
-        "summary": "極光的色彩是分子在跳舞"
-      },
-      {
-        "quote": "流星是太空中的塵粒或小石塊進入地球大氣層時，因高速摩擦而燃燒發光，速度可達每秒11至72公里，亮度與顏色取決於其成分與燃燒程度。",
-        "summary": "Meteor是太空塵粒的火焰秀"
-      },
-      {
-        "quote": "流星雨的來源通常是彗星留下的碎屑軌道，當地球穿越這些軌道時，碎屑進入大氣層形成壯觀的流星雨，如英仙座與獅子座流星群。",
-        "summary": "Meteor Shower是彗星的尾巴遺跡"
-      },
-      {
-        "quote": "短週期彗星多來自柯伊伯帶，它們的軌道周期通常少於200年，並受到海王星及其他外行星的引力影響。而長週期彗星則起源於位於更遙遠太陽系邊緣的歐特雲，軌道周期可達數千年甚至更久。",
-        "summary": "Comet的故鄉是柯伊伯帶與歐特雲"
-      }
-    ]
-  },
-  {
-    "title": "深海生物小知識",
-    "items": [
-      {
-        "quote": "章魚有三顆心臟與藍色血液，能在深海低氧環境中維持循環。牠們也能透過偽裝與噴墨逃避掠食者。",
-        "summary": "章魚是深海的智慧忍者"
-      },
-      {
-        "quote": "海葵與小丑魚有共生關係，小丑魚能抵抗海葵毒素，並清理海葵觸手上的碎屑。",
-        "summary": "小丑魚是海葵的貼心室友"
-      },
-      {
-        "quote": "海洋中最大的鯊魚是鯨鯊，體長可達12公尺以上，雖然體型巨大，卻是溫和的濾食者。",
-        "summary": "鯨鯊是海洋的溫柔巨人"
-      },
-      {
-        "quote": "海底熱泉周圍棲息著不依賴陽光的生物群落，牠們靠化學合成細菌提供能量，是地球生命多樣性的證據。",
-        "summary": "深海熱泉是無光生命的搖籃"
-      },
-      {
-        "quote": "水母沒有心臟、腦或骨骼，牠們透過散佈的神經網絡感知刺激，並以肌肉收縮推動身體移動。這種簡單構造卻能維持生命循環。",
-        "summary": "水母是柔軟的生存奇蹟"
-      },
-      {
-        "quote": "海馬是唯一由雄性懷孕並生產的脊椎動物。雄性海馬體內有育兒囊，雌性將卵子注入後，雄性負責受精、懷孕與分娩，一次可產下數百隻幼海馬。",
-        "summary": "爸爸海馬才是真正的孕育者"
-      },
-      {
-        "quote": "海星具有驚人的再生能力。某些種類只要保留一隻手臂和部分中央盤，就能再生出完整個體。這項能力來自牠們分散的神經系統與幹細胞活性。",
-        "summary": "海星的重生力令人敬畏"
-      },
-      {
-        "quote": "海天使(Clione limacina)是一種浮游性軟體動物，屬於翼足目，外型透明、體長約2–4公分，游動時像拍動翅膀的天使，因此得名。",
-        "summary": "海天使是海中飄浮的小精靈"
-      },
-      {
-        "quote": "海天使(Clione limacina)的消化器官呈紅色，位於透明身體中央，看起來像一顆火熱的心臟，成為其視覺標誌。",
-        "summary": "海天使的紅心是消化系統"
+        "quote": "魟魚的身體呈扁平狀，胸鰭如同翅膀般拍動在海底滑行。部分魟魚能利用電流防禦或捕食，像是電魟能釋放強大電擊。",
+        "summary": "Ray是海底的滑翔者與電能使者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/09/23/21/00/ray-954353_640.jpg"
       }
     ]
   },
@@ -817,71 +984,93 @@
     "items": [
       {
         "quote": "鴯鶓是世界第二大鳥類，僅次於鴕鳥(第三名是鶴鴕)。牠們不能飛行，但奔跑速度可達每小時50公里，並擁有強壯的腿部與三趾腳掌，能踢出強力防衛攻擊。",
-        "summary": "鴯鶓奔跑如風，名字也常被念錯"
+        "summary": "Emu奔跑如風，名字也常被念錯",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/09/19/21/04/emu-5585505_1280.jpg"
       },
       {
         "quote": "袋鼠具備胚胎滯育能力，當育兒袋中已有幼崽時，子宮內的另一個胚胎會暫停發育，直到環境條件適合才繼續。牠們跳躍速度可達每小時70公里，一次可跳超過13公尺，是陸地上跳得最遠的哺乳類之一。",
-        "summary": "袋鼠不只跳得遠，還能暫停懷孕"
+        "summary": "Kangaroo不只跳得遠，還能暫停懷孕",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/01/04/10/30/kangaroo-6914748_1280.jpg"
       },
       {
         "quote": "無尾熊每天可睡18到22小時，主要因為牠們只吃低營養且具毒性的尤加利葉，需要大量休息來節省能量。",
-        "summary": "無尾熊的懶，是生存的智慧"
+        "summary": "Koala的懶是生存的智慧",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/08/07/22/35/animals-2608662_1280.jpg"
       },
       {
         "quote": "河馬其實不會游泳，牠們在水中是靠踩地行走，因為體積太大無法浮起。",
-        "summary": "河馬在水裡是走路不是游泳"
+        "summary": "Hippopotamus在水裡是走路不是游泳",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/09/18/10/39/hippo-4486152_640.jpg"
       },
       {
         "quote": "塔斯馬尼亞惡魔是現存最大型的肉食性有袋動物，會發出刺耳叫聲與強烈氣味來嚇阻敵人。自1996年起，牠們面臨一種具傳染性的臉部腫瘤疾病，已導致野生族群數量急劇下降，保育工作仍在持續進行。",
-        "summary": "惡魔的叫聲背後，是生存的警訊"
+        "summary": "Tasmanian Devil的叫聲背後，是生存的警訊",
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/07/26/03/45/tasmanian-devil-6493400_640.jpg"
       },
       {
         "quote": "鴕鳥的眼睛直徑約5公分，比牠的大腦還大。這使牠在開闊草原上能有效偵測掠食者，但也意味牠的認知能力相對有限。",
-        "summary": "鴕鳥眼界大，腦袋小"
+        "summary": "Ostrich眼界大，腦袋小",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/04/20/08/19/ostrich-1340635_1280.jpg"
       },
       {
         "quote": "蝙蝠是唯一能真正飛行的哺乳類動物。牠們的翅膀由延長的手指骨支撐薄膜構成，與鳥類的翅膀結構完全不同。",
-        "summary": "蝙蝠是哺乳界的飛行員"
-      },
-      {
-        "quote": "螢火蟲發光是由體內的螢光素與酵素反應產生，過程中幾乎不產生熱能，因此稱為冷光。這種光常用於求偶與警示。",
-        "summary": "夜晚的冷光燈來自昆蟲"
-      },
-      {
-        "quote": "非洲巨鼠(如岡比亞袋鼠)能透過嗅覺辨識結核病痰液樣本與地雷炸藥氣味。牠們體型輕巧，不會引爆地雷，已被應用於排雷與醫療篩檢。",
-        "summary": "英雄鼠不只聰明，還救命"
-      },
-      {
-        "quote": "北極熊的皮膚是黑色的，毛髮則是透明的。毛髮能折射光線，使牠看起來是白色，而黑色皮膚有助於吸收太陽熱能，在寒冷環境中保暖。",
-        "summary": "白毛下藏著黑色能量"
+        "summary": "Bat是哺乳界的飛行員",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/02/28/13/21/bat-4887509_960_720.jpg"
       },
       {
         "quote": "樹懶每週只排便一次，且會從樹上下來到地面完成這件事，這段旅程是牠最危險的時刻。",
-        "summary": "樹懶的如廁行程是生死挑戰"
+        "summary": "Sloth的如廁行程是生死挑戰",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/09/17/20/35/sloth-2759724_1280.jpg"
       },
       {
         "quote": "鴨嘴獸是哺乳動物中少數會產卵的物種，還有毒刺與電感應能力。",
-        "summary": "鴨嘴獸是哺乳界的異能者"
-      },
-      {
-        "quote": "貓的鬍鬚能感知空間寬度與氣流，是導航與獵捕的重要工具。",
-        "summary": "貓鬍鬚是空間雷達"
+        "summary": "Platypus是哺乳界的異能者",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/10/21/05/15/platypus-3762257_1280.jpg"
       },
       {
         "quote": "蜂鳥是唯一能夠倒退飛行的鳥類，牠們的翅膀能以8字形軌跡高速振動。",
-        "summary": "蜂鳥飛行技術超越空軍"
+        "summary": "Hummingbird飛行技術超越空軍",
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/08/06/21/55/hummingbird-878703_1280.jpg"
       },
       {
         "quote": "銀喉長尾山雀是日本的亞種，主要棲息地是在北海道，冬季羽毛蓬鬆潔白，外型圓滾滾如雪球，因此被暱稱為『雪之精靈』，體重僅約10克，比一枚10日圓硬幣還輕。",
-        "summary": "北海道的雪精靈，輕到像羽毛"
+        "summary": "北海道的雪精靈Long-tailed Tit，輕到像羽毛",
+        "imageUrl": "https://cdn.pixabay.com/photo/2025/05/05/05/03/long-tailed-tit-9579461_1280.jpg"
       },
       {
-        "quote": "緋紅鴝鶲(Scarlet Robin)屬於澳洲特有種，分布於塔斯馬尼亞與東南部地區，雄鳥與雌鳥外型差異明顯，是典型的性別二型性鳥類。",
-        "summary": "紅胸黑羽，鳥界的時尚代表"
+        "quote": "緋紅鴝鶲屬於澳洲特有種，分布於塔斯馬尼亞與東南部地區，雄鳥與雌鳥外型差異明顯，是典型的性別二型性鳥類。",
+        "summary": "Scarlet Robin紅胸黑羽，鳥界的時尚代表",
+        "imageUrl": "https://cdn.pixabay.com/photo/2025/07/13/08/40/scarlet-robin-9711850_1280.jpg"
       },
       {
-        "quote": "壯麗細尾鷯鶯(Superb Fairywren)是澳洲特有鳥類，雄鳥在繁殖季節會換上鮮藍色羽毛吸引雌鳥，非繁殖期則換回棕灰色羽毛以避開掠食者。",
-        "summary": "牠的藍羽是季節限定"
+        "quote": "壯麗細尾鷯鶯是澳洲特有鳥類，雄鳥在繁殖季節會換上鮮藍色羽毛吸引雌鳥，非繁殖期則換回棕灰色羽毛以避開掠食者。",
+        "summary": "Superb Fairywren的藍羽是季節限定",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/07/03/10/21/superb-fairywren-7298880_1280.jpg"
+      },
+      {
+        "quote": "太平洋鸚鵡是小型鸚鵡，體長僅約12公分，卻有強烈的領地意識。牠們能學習簡單詞語，常被稱為『口袋鸚鵡』。",
+        "summary": "Pacific Parrotlet是小巧卻有大個性的智慧精靈",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/02/07/21/20/animals-3982204_1280.jpg"
+      },
+      {
+        "quote": "巴丹鸚鵡以頭頂的冠羽聞名，能隨情緒豎起或放下。牠們智商高、情感依賴強，壽命可達40至60年，是長壽的伴侶鳥。",
+        "summary": "Cockatoo是長壽又聰明的情感伴侶鳥",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/12/24/11/05/sulphur-crested-cockatoo-3892683_1280.jpg"
+      },
+      {
+        "quote": "月輪鸚鵡以頸部的黑色環紋聞名，羽色多樣，能模仿簡單詞語。牠們性格獨立好奇，壽命可達25年以上。",
+        "summary": "Ring-necked Parakeet是頸環羽毛的獨立探險家",
+        "imageUrl": "https://cdn.pixabay.com/photo/2025/11/22/18/31/18-31-50-12_1280.jpg"
+      },
+      {
+        "quote": "金剛鸚鵡是最大型的鸚鵡之一，羽色鮮豔，能活到50年以上。牠們鳴叫聲洪亮，飛行力強，常成為熱帶雨林的亮點。",
+        "summary": "Macaw是熱帶雨林的彩色巨人",
+        "imageUrl": "https://cdn.pixabay.com/photo/2023/03/28/18/24/macaw-7883883_1280.jpg"
+      },
+      {
+        "quote": "和尚鸚鵡會集體築巢，巢穴龐大且能容納多個家庭，是少數會合作建築的鸚鵡。",
+        "summary": "Monk Parakeet是鳥界的建築師",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/06/17/17/53/monk-parakeet-7268496_960_720.jpg"
       }
     ]
   },
@@ -1997,6 +2186,62 @@
       {
         "quote": "相信自己，你已經沒別的可以相信了。",
         "summary": "孤獨是信念的起點"
+      },
+      {
+        "quote": "人群裡的熱鬧，常常比一個人的安靜更孤單。",
+        "summary": "孤單不是缺人，是缺懂的人"
+      },
+      {
+        "quote": "有些話不說，不是沒人聽，而是沒人能懂。",
+        "summary": "沉默是最安全的語言"
+      },
+      {
+        "quote": "陪伴不在於距離，而在於心有沒有靠近。",
+        "summary": "心近才算陪伴"
+      },
+      {
+        "quote": "孤獨不是懲罰，而是給自己最真實的禮物。",
+        "summary": "孤獨是自我對話的舞台"
+      },
+      {
+        "quote": "最怕的不是沒人愛，而是沒人懂。",
+        "summary": "理解比愛更稀有"
+      },
+      {
+        "quote": "有些人走了，不是失去，而是讓你更完整。",
+        "summary": "離開也是一種成全"
+      },
+      {
+        "quote": "安靜不是空白，而是心裡的風景。",
+        "summary": "靜下來，才能看見自己"
+      },
+      {
+        "quote": "我的朋友圈很安靜，因為只有我一個人。",
+        "summary": "孤獨也能省流量"
+      },
+      {
+        "quote": "手機訊息零未讀，這就是我最穩定的狀態。",
+        "summary": "安靜的通知就是我的安全感"
+      },
+      {
+        "quote": "孤獨的好處是不用分零食給別人。",
+        "summary": "零食全歸我，孤獨也甜"
+      },
+      {
+        "quote": "我的心情就像 Wi-Fi，只有我自己能連上。",
+        "summary": "專屬頻率，別人無法登入"
+      },
+      {
+        "quote": "最常陪我聊天的是 AI 對話框。",
+        "summary": "孤獨的人都很會問問題"
+      },
+      {
+        "quote": "我不是孤單，我只是限量版。",
+        "summary": "稀有才顯得珍貴"
+      },
+      {
+        "quote": "我的生活像群組聊天室，只有我自己在打字。",
+        "summary": "自言自語也是一種互動"
       }
     ]
   },
@@ -3137,136 +3382,212 @@
     "title": "智慧小語",
     "items": [
       {
-        "quote": "想像力比知識更重要，因為知識有限，而想像力包羅萬象。",
-        "summary": "愛因斯坦"
+        "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.\n想像力比知識更重要，因為知識有限，而想像力包羅萬象。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "生活中最美妙的事莫過於疑問的能力，這是創造力的源泉。",
-        "summary": "愛因斯坦"
+        "quote": "Try not to become a man of success, but rather try to become a man of value.\n不必追求成功，但求當個有用的人。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "愚蠢是永遠不停止提問，也不反思答案的過程。",
-        "summary": "愛因斯坦"
+        "quote": "Thinking is hard work; that’s why so few do it.\n思考是件苦差事，因此很少人會去做。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "一切美好的事物都是過去的夢想，不要停止夢想，因為夢想是前進的動力。",
-        "summary": "愛因斯坦"
+        "quote": "I never think of the future. It comes soon enough.\n我從不去想未來。因為它來得已經夠快的了。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "當我們停止學習，我們便開始死亡，持續求知是生命的真正意義。",
-        "summary": "愛因斯坦"
+        "quote": "The secret to creativity is knowing how to hide your sources.\n創造力的祕密，就在於懂得如何隱藏你的來源。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "不管你問多小的問題，都可能是開啟新世界的大門。",
-        "summary": "愛因斯坦"
+        "quote": "Weakness of attitude becomes weakness of character.\n態度上的弱點會變成性格上的弱點。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "最偉大的發現往往來自看見平凡事物中的不平凡。",
-        "summary": "愛因斯坦"
+        "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.\n人生就像騎單車。想保持平衡就得往前走。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "全天下最愚蠢的事就是，每天不斷地重複做相同的事，卻期待有一天會出現不同的結果。",
-        "summary": "愛因斯坦"
+        "quote": "Insanity: doing the same thing over and over again and expecting different results.\n什麼叫瘋子，就是重複做同樣的事情還期待會出現不同的結果。",
+        "summary": "Albert Einstein 愛因斯坦"
       },
       {
-        "quote": "我思故我在。",
-        "summary": "笛卡爾"
+        "quote": "The meaning of life is not to find yourself, but to create yourself.\n生命的意義不在於找到自己，而在於創造自己。",
+        "summary": "George Bernard Shaw 蕭伯納"
       },
       {
-        "quote": "人生不是尋找自己，而是創造自己。",
-        "summary": "薩特"
+        "quote": "There are two tragedies in life. One is not to get your heart’s desire. The other is to get it.\n人生有兩種悲劇：得不到你想要的東西，或得到你想要的東西。",
+        "summary": "George Bernard Shaw, Man and Superman 蕭伯納"
       },
       {
-        "quote": "人的自由就是承擔選擇的責任。",
-        "summary": "薩特"
+        "quote": "We should consider every day lost on which we have not danced at least once.\n每一個不曾起舞的日子 都是對生命的辜負！",
+        "summary": "Friedrich Nietzsche 尼采"
       },
       {
-        "quote": "沒有音樂，生活是一種錯誤。",
-        "summary": "尼采"
+        "quote": "Prefer to pursue the emptiness, also cannot have no pursuit.\n寧可去追求虛無，也不能什麼追求也沒有。",
+        "summary": "Friedrich Nietzsche 尼采"
       },
       {
-        "quote": "沒有所謂的真理，只有不同視角下的解讀。",
-        "summary": "尼采"
+        "quote": "He who has a why to live can bear almost any how.\n一個人知道自己為什麼而活，就可以忍受任何一種生活。",
+        "summary": "Friedrich Nietzsche 尼采"
       },
       {
-        "quote": "幸福的祕訣在於期待越少，得到越多。",
-        "summary": "叔本華"
+        "quote": "Life is like a pendulum swinging between pain and boredom.\n人生如同鐘擺在痛苦和無聊之間擺動。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "知識就是力量。",
-        "summary": "弗朗西斯・培根"
+        "quote": "Every man takes the limits of his own field of vision for the limits of the world.\n每個人都將自己視野的極限誤認為是世界的極限。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "唯有變化是真實的不變。",
-        "summary": "赫拉克利特"
+        "quote": "Without a certain degree of solitude, it is impossible to have inner peace.\n沒有相當程度的孤獨是不可能有內心的平和。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "幸福不在於擁有多少，而在於知足。",
-        "summary": "亞里斯多德"
+        "quote": "A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.\n一個人只有在獨處時才能成為自己。誰要是不愛獨處，那他就不愛自由，因為一個人只有在獨處時才是真正自由的。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "做自己，其他角色已有人扮演。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "In solitude, the wretched man feels the whole of his wretchedness; while the highly intellectual man feels the whole of his intellect.\n在獨處的時候，一個可憐蟲就會感受到自己的全部可憐之處；而一個具有豐富思想的人，只會感覺到自己豐富的思想。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "少說話，多微笑，愚人才能解讀的笑話才好笑。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "No one lives in the past, and no one will live in the future; the present is the only form of existence, the only reality; consequently, it is the only time that belongs to us.\n沒有人生活在過去，也沒有人生活在未來，現在是生命確實占有的唯一形態。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "生活中最偉大的悲劇，是偽裝成正常人的孤獨。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "To estimate a man's happiness, we should not ask what gives him pleasure, but rather what trifles vex him.\n衡量一個人是否幸福，不應該看他擁有多少高興的事，而應該看他是否正為一些瑣碎小事而煩惱。",
+        "summary": "Arthur Schopenhauer 叔本華"
       },
       {
-        "quote": "最偉大的謊言，是對世界的善意謊言，因為真相比誰都殘酷。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "Life is one fool thing after another whereas love is two fool things after each other.\n人生就是一件蠢事，追著另一件蠢事而來，而愛情則是兩個蠢東西追來追去。",
+        "summary": "Oscar Wilde 奧斯卡・王爾德"
       },
       {
-        "quote": "享樂是最高尚的藝術，痛苦才是最無聊的懲罰。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "To live is the rarest thing in the world. Most people exist, that is all.\n活著是世界上最罕見的事情。大多數人只是存在，僅此而已。",
+        "summary": "Oscar Wilde 奧斯卡・王爾德"
       },
       {
-        "quote": "人生有兩種悲劇：得不到你想要的東西，或得到你想要的東西。",
-        "summary": "奧斯卡・王爾德"
+        "quote": "Life is never fair... And perhaps it is a good thing for most of us that it is not.\n人生從來就不公平，或許對我們大多數人來說，這反而是件好事。",
+        "summary": "Oscar Wilde, An Ideal Husband 奧斯卡・王爾德"
       },
       {
-        "quote": "幸福並非目的，而是旅途中的副產品。",
-        "summary": "盧梭"
+        "quote": "Nature will not deceive us. It is often ourselves who deceive us.\n大自然不會欺騙我們，欺騙我們的往往是我們自己。",
+        "summary": "Jean-Jacques Rousseau 盧梭"
       },
       {
-        "quote": "最深的痛苦常常來自對美好事物的渴望。",
-        "summary": "席勒"
+        "quote": "Man is born free and everywhere he is in chains.\n人生而自由，卻無往不在枷鎖之中。",
+        "summary": "Jean-Jacques Rousseau 盧梭"
       },
       {
-        "quote": "我最大的智慧就是知道自己的無知。",
-        "summary": "蘇格拉底"
+        "quote": "The deepest pain often comes from the longing for beautiful things.\n最深的痛苦常常來自對美好事物的渴望。",
+        "summary": "Friedrich Schiller 席勒"
       },
       {
-        "quote": "生命是一場不斷學習如何死亡的過程。",
-        "summary": "海德格爾"
+        "quote": "Life is never made unbearable by circumstances, but only by lack of meaning and purpose.\n生活從不會因環境而變得無法忍受，只有在缺乏意義和目的的情況下才會如此。",
+        "summary": "Viktor Frankl,Man’s Search for Meaning 維克多・法蘭克"
       },
       {
-        "quote": "生活從不會因環境而變得無法忍受，只有在缺乏意義和目的的情況下才會如此。",
-        "summary": "維克多・法蘭克"
+        "quote": "In some way, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.\n痛苦在某種程度上，一旦找到意義——例如犧牲的意義——便不再只是痛苦。",
+        "summary": "Viktor Frankl,Man’s Search for Meaning 維克多・法蘭克"
       },
       {
-        "quote": "生活必須往後理解，但必須往前生活。",
-        "summary": "齊克果"
+        "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.\n當我們無法改變環境時，我們就被迫挑戰自己去改變。",
+        "summary": "Viktor Frankl,Man’s Search for Meaning 維克多・法蘭克"
       },
       {
-        "quote": "專注於生活的美好。觀看星星，並看到自己與它們一起奔跑。",
-        "summary": "馬可・奧理略"
+        "quote": "The meaning of life differs from man to man, from day to day and from hour to hour.\n生命的意義因人而異，因日而異，甚至因時而異。",
+        "summary": "Viktor Frankl,Man’s Search for Meaning 維克多・法蘭克"
       },
       {
-        "quote": "心靈只有通過經驗才能充實想法。",
-        "summary": "約翰・洛克"
+        "quote": "Life can only be understood backwards; but it must be lived forwards.\n生活只能在回顧中理解，但必須在未知中前行。",
+        "summary": "Søren Kierkegaard, Papers and Journals 齊克果"
       },
       {
-        "quote": "在所有可能的世界中，一切都是最好的。",
-        "summary": "伏爾泰"
+        "quote": "There are two ways to be fooled. One is to believe what isn’t true; the other is to refuse to believe what is true.\n人被欺騙有兩種方式：相信不真實的，或拒絕相信真實的。",
+        "summary": "Søren Kierkegaard, Papers and Journals 齊克果"
       },
       {
-        "quote": "生命只有一次，狂野且珍貴，告訴我，你打算怎麼做？",
-        "summary": "瑪麗·奧利弗 -《夏日的一天》"
+        "quote": "The most common form of despair is not being who you are.\n最普遍的絕望，就是沒有成為真正的自己。",
+        "summary": "Søren Kierkegaard, Papers and Journals 齊克果"
+      },
+      {
+        "quote": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.\n專注於生活的美好，觀星時感受自己與宇宙同在。",
+        "summary": "Marcus Aurelius, Meditations 馬可・奧理略"
+      },
+      {
+        "quote": "Observe constantly that all things take place by change, and accustom yourself to consider that the nature of the Universe loves nothing so much as to change.\n時刻觀察萬物皆在變化，並習慣於理解宇宙最愛的就是改變。",
+        "summary": "Marcus Aurelius, Meditations 馬可・奧理略"
+      },
+      {
+        "quote": "The senses at first let in particular ideas, and furnish the yet empty cabinet: and the mind by degrees growing familiar with some of them, they are lodged in memory, and names got to them.\n感官最初帶入具體的觀念，填充空白的心靈，心靈逐漸熟悉並將其存入記憶，並賦予名稱。",
+        "summary": "John Locke, An Essay Concerning Human Understanding 約翰・洛克"
+      },
+      {
+        "quote": "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas; how comes it to be furnished?\n心靈如同一張白紙，沒有任何先天觀念，那麼它如何被填充？",
+        "summary": "John Locke, An Essay Concerning Human Understanding 約翰・洛克"
+      },
+      {
+        "quote": "Common sense is not so common.\n常識並不常見。",
+        "summary": "Voltaire 伏爾泰"
+      },
+      {
+        "quote": "Faith consists in believing when it is beyond the power of reason to believe.\n信仰就是在理性無法相信時仍然相信。",
+        "summary": "Voltaire 伏爾泰"
+      },
+      {
+        "quote": "Tell me, what is it you plan to do with your one wild and precious life?\n生命只有一次，狂野且珍貴，告訴我，你打算怎麼做？",
+        "summary": "Mary Oliver, The Summer Day 瑪麗·奧利弗"
+      },
+      {
+        "quote": "Life isn't how to survive the storm; it's about how to dance in the rain.\n生活不是學會如何在暴風雨中生存，而是如何在雨中起舞。",
+        "summary": "Taylor Swift 泰勒絲"
+      },
+      {
+        "quote": "You are not the opinion of someone who doesn’t know you.\n那些不了解你的人對你的評價並不重要。",
+        "summary": "Taylor Swift 泰勒絲"
+      },
+      {
+        "quote": "The lesson I've learned the most often in life is that you're always going to know more in the future than you know now.\n我人生中最常體悟的一課是：未來的你總會比現在的你懂得更多。",
+        "summary": "Taylor Swift 泰勒絲"
+      },
+      {
+        "quote": "In life, you learn lessons. And sometimes you learn them the hard way. Sometimes you learn them too late.\n人生會教你許多課。有時你必須用艱難的方式學會它，有時當你真正學會時則為時已晚。",
+        "summary": "Taylor Swift 泰勒絲"
+      },
+      {
+        "quote": "Life is so much easier when you don't hoard your past.\n當你不再鑽研往事，生活會變得容易許多。",
+        "summary": "Adele 愛黛兒"
+      },
+      {
+        "quote": "Sometimes you have to allow yourself to be sad, in order to move forward.\n有時候，你必須允許自己擁抱悲傷，這樣才能繼續向前走。",
+        "summary": "Adele 愛黛兒"
+      },
+      {
+        "quote": "Sometime people come into your life for no reason. Don't ever try and see a silver lining of it, sometimes they are just fxxking useless.\n有時，人們莫名其妙地走進你的生命。不用硬要說服自己這是某種緣分，有時候他們就是這麼的廢物。",
+        "summary": "Adele 愛黛兒"
+      },
+      {
+        "quote": "No matter what you look like, the key is to first of all be happy with yourself.\n不論你看起來如何，首先最重要的就是讓自己快樂。",
+        "summary": "Adele 愛黛兒"
+      },
+      {
+        "quote": "Don't you ever let a soul in the world tell you that you can't be exactly who you are.\n別讓任何人告訴你：『你不能做自己。』",
+        "summary": "Lady Gaga 女神卡卡"
+      },
+      {
+        "quote": "Even if the whole world turns their back on you, you'll always have yourself.\n就算全世界都不站在你這邊，別忘了你永遠擁有自己。",
+        "summary": "Lady Gaga 女神卡卡"
+      },
+      {
+        "quote": "We need fantasy to survive because reality is too difficult.\n我們需要幻想去生存，因為現實太艱難了。",
+        "summary": "Lady Gaga 女神卡卡"
+      },
+      {
+        "quote": "You have to be unique, and different, and shine in your own way.\n你要勇敢獨特，與眾不同，用自己的方式發光。",
+        "summary": "Lady Gaga 女神卡卡"
       }
     ]
   },
@@ -3274,19 +3595,23 @@
     "title": "影集金句",
     "items": [
       {
-        "quote": "只有有錢人才會說錢不重要。",
-        "summary": "怒嗆人生》(Beef)"
-      },
-      {
-        "quote": "我討厭假裝我什麼都不討厭。",
+        "quote": "只有有錢人才會說錢不重要。佛陀之所以能成為佛陀，首先是因為他是王子，好嗎？他還有能放棄的東西。",
         "summary": "《怒嗆人生》(Beef)"
       },
       {
-        "quote": "這就是世界的問題，好像要你面帶微笑吃屎。",
+        "quote": "這就是當今社會的問題所在，好像你要面帶微笑吃屎一樣！我受夠微笑了！",
         "summary": "《怒嗆人生》(Beef)"
       },
       {
-        "quote": "你浪費太多時間遵守武斷的規則了。",
+        "quote": "我討厭假裝自己什麼都不討厭，我討厭工作，我希望可以一整天什麼都不做，不用去擔心錢的問題。",
+        "summary": "《怒嗆人生》(Beef)"
+      },
+      {
+        "quote": "沒有黑暗，就無法體驗光明。空虛但紮實，這就是現實。",
+        "summary": "《怒嗆人生》(Beef)"
+      },
+      {
+        "quote": "我父母在我成長過程中，教育我要壓抑所有的情感。我爸會把一切悶在心裡，我媽認為談論自己的感受就是在抱怨。",
         "summary": "《怒嗆人生》(Beef)"
       },
       {
@@ -3371,15 +3696,15 @@
       },
       {
         "quote": "你必須保持開放的心胸，如果你鎖定一個想法，那就是死路一條。",
-        "summary": "后翼棄兵 (The Queen's Gambit)"
+        "summary": "《后翼棄兵》(The Queen's Gambit)"
       },
       {
         "quote": "每次有人說『這是為了你好』的時候，往往都是最壞的決定。",
-        "summary": "后翼棄兵 (The Queen's Gambit)"
+        "summary": "《后翼棄兵》(The Queen's Gambit)"
       },
       {
         "quote": "真正的強者，是不害怕孤獨的。",
-        "summary": "后翼棄兵 (The Queen's Gambit)"
+        "summary": "《后翼棄兵》(The Queen's Gambit)"
       }
     ]
   },
