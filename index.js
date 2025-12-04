@@ -117,14 +117,7 @@ async function broadcastMessage(data) {
       messages: [{
         "type": "flex",
         "altText": data.title,
-        "contents": {
-          "type": "bubble",
-          "body": {
-            "type": "box",
-            "layout": "vertical",
-            "contents": createContents(data)
-          }
-        }
+        "contents": createContents(data)
       }]
     }, {
       headers: {
