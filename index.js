@@ -75,7 +75,7 @@ const createContents = (data) => {
     text: data.item.summary,
     size: "md",
     align: "end",
-    color: "#888888",
+    color: data.item.url ? "#4169E1" : "#888888",
     margin: "md",
     wrap: true
   };
