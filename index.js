@@ -112,6 +112,7 @@ const createContents = (data) => {
 }
 
 async function broadcastMessage(data) {
+  console.error("select quote：", data);
   try {
     await axios.post("https://api.line.me/v2/bot/message/broadcast", {
       messages: [{
@@ -125,9 +126,8 @@ async function broadcastMessage(data) {
         "Content-Type": "application/json"
       }
     });
-    console.log("✅ success：", data);
+    console.log("✅ success");
   } catch (error) {
-    console.error("select quote：", data);
     console.error("❌ fail：", error.response?.data || error.message);
   }
 }
