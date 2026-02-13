@@ -8,139 +8,88 @@ dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const quotesPath = path.join(__dirname, "json", "quotes.json");
+const newYearPath = path.join(__dirname, "json", "new-year.json");
 
-let quotes = JSON.parse(fs.readFileSync(quotesPath, "utf8"));
+let newYears = JSON.parse(fs.readFileSync(newYearPath, "utf8"));
 
-if (quotes.length === 0) {
-  console.log("❌ All done");
+if (newYears.length === 0) {
+  console.log("❌ New Year all done");
   process.exit(0);
 }
 
-const randomBlock = quotes[Math.floor(Math.random() * quotes.length)];
-const randomItem = randomBlock.items[Math.floor(Math.random() * randomBlock.items.length)];
-const selectedQuote = { title: randomBlock.title, item: randomItem }
+const newYearItem = newYears[Math.floor(Math.random() * newYears.length)];
+newYears = newYears.filter(item => item !== newYearItem);
 
-randomBlock.items = randomBlock.items.filter(item => item !== randomItem);
-if (randomBlock.items.length === 0) {
-  console.log(`⚠️  ${randomBlock.title} used up`);
-  quotes = quotes.filter(block => block !== randomBlock);
-}
+const isNewYearTaskTime = () => {
+  const now = new Date();
 
-fs.writeFileSync(quotesPath, JSON.stringify(quotes, null, 2), "utf8");
-
-const createContents = (data) => {
-  const contents = [
-    {
-      type: "text",
-      text: data.title,
-      size: "lg",
-      align: "center",
-      color: "#222222",
-      margin: "none"
-    }
-  ];
-
-  const sloganText = {
-    type: "text",
-    text: data.item.slogan,
-    size: "lg",
-    align: "center",
-    color: "#2F3A56",
-    margin: "md",
-    wrap: true
-  };
-
-  if (data.item.slogan) {
-    contents.push(sloganText);
-  }
-
-  const quoteTest = {
-    type: "text",
-    text: data.item.quote,
-    color: "#444444",
-    size: "lg",
-    align: "start",
-    margin: "md",
-    wrap: true
-  }
-
-  if (data.item.quote) {
-    contents.push(quoteTest);
-  }
-
-  const summaryText = {
-    type: "text",
-    text: data.item.summary,
-    size: "md",
-    align: "end",
-    color: data.item.url ? "#4169E1" : "#888888",
-    margin: "md",
-    wrap: true
-  };
-
-  if (data.item.url) {
-    summaryText.action = {
-      type: "uri",
-      uri: data.item.url
-    };
-  }
-
-  contents.push(summaryText);
-
-  const flexMessage = {
-    type: "bubble",
-    body: {
-      type: "box",
-      layout: "vertical",
-      contents: contents
-    }
-  };
-
-  if (data.item.imageUrl) {
-    flexMessage.hero = {
-      type: "image",
-      size: "full",
-      aspectRatio: "16:9",
-      aspectMode: "cover",
-      url: data.item.imageUrl
-    };
-  }
-
-  return flexMessage;
-}
-
-async function broadcastMessage(data) {
-  console.log("select quote：", data);
-  try {
-    await axios.post("https://api.line.me/v2/bot/message/broadcast", {
-      messages: [{
-        "type": "flex",
-        "altText": data.title,
-        "contents": createContents(data)
-      }]
-    }, {
-      headers: {
-        "Authorization": `Bearer ${process.env.CHANNEL_ACCESS_TOKEN}`,
-        "Content-Type": "application/json"
-      }
-    });
-    console.log("✅ success");
-  } catch (error) {
-    console.error("❌ fail：", error.response?.data || error.message);
-  }
-}
-
-const isTimeToRunTask = () => {
-  const hour = new Intl.DateTimeFormat("en-US", {
+  const formatter = new Intl.DateTimeFormat("en-US", {
     timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
     hour: "numeric",
     hour12: false
-  }).format(new Date());
+  });
 
-  return Number(hour) === 22;
-}
+  const parts = formatter.formatToParts(now);
+  const month = Number(parts.find(p => p.type === "month").value);
+  const day = Number(parts.find(p => p.type === "day").value);
+  const hour = Number(parts.find(p => p.type === "hour").value);
 
-if (isTimeToRunTask()) {
-  broadcastMessage(selectedQuote);
+  const inDateRange = (month === 2 && day >= 13 && day <= 15);
+  const inHour = (hour === 12);
+
+  return inDateRange && inHour;
+};
+
+if (isNewYearTaskTime()) {
+  console.log("select quote：", newYearItem);
+  try {
+    await axios.post(
+      "https://api.line.me/v2/bot/message/push",
+      {
+        to: process.env.USER_ID,
+        messages: [
+          {
+            type: "flex",
+            altText: "春節教戰手則",
+            contents: {
+              type: "bubble",
+              body: {
+                type: "box",
+                layout: "vertical",
+                contents: [
+                  {
+                    "type": "text",
+                    "text": newYearItem.title,
+                    "align": "center",
+                    "size": "lg",
+                    "color": "#000093"
+                  },
+                  {
+                    "type": "text",
+                    "text": newYearItem.quote,
+                    "wrap": true,
+                    "size": "lg",
+                    "margin": "md"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${process.env.CHANNEL_ACCESS_TOKEN}`
+        }
+      }
+    );
+    console.log("✅ success");
+    fs.writeFileSync(newYearPath, JSON.stringify(newYears, null, 2), "utf8");
+  } catch (err) {
+    console.error("❌ fail：", error.response?.data || error.message);
+  }
 }
