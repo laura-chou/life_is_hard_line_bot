@@ -55,7 +55,6 @@ const createContents = (data) => {
     contents.push(sloganText);
   }
 
-
   const quoteTest = {
     type: "text",
     text: data.item.quote,
@@ -112,7 +111,7 @@ const createContents = (data) => {
 }
 
 async function broadcastMessage(data) {
-  console.error("select quote：", data);
+  console.log("select quote：", data);
   try {
     await axios.post("https://api.line.me/v2/bot/message/broadcast", {
       messages: [{
@@ -132,5 +131,16 @@ async function broadcastMessage(data) {
   }
 }
 
-broadcastMessage(selectedQuote);
+const isTimeToRunTask = () => {
+  const hour = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Taipei",
+    hour: "numeric",
+    hour12: false
+  }).format(new Date());
 
+  return Number(hour) === 22;
+}
+
+if (isTimeToRunTask()) {
+  broadcastMessage(selectedQuote);
+}
