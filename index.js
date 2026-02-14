@@ -38,7 +38,7 @@ const isNewYearTaskTime = () => {
   const hour = Number(parts.find(p => p.type === "hour").value);
 
   const inDateRange = (month === 2 && day >= 13 && day <= 15);
-  const inHour = (hour === 12);
+  const inHour = (hour === 10);
 
   return inDateRange && inHour;
 };
@@ -61,18 +61,29 @@ if (isNewYearTaskTime()) {
                 layout: "vertical",
                 contents: [
                   {
-                    "type": "text",
-                    "text": newYearItem.title,
-                    "align": "center",
-                    "size": "lg",
-                    "color": "#000093"
+                    type: "text",
+                    text: "春節教戰手則",
+                    align: "center",
+                    color: "#222222",
+                    size: "lg",
+                    margin: "none"
                   },
                   {
-                    "type": "text",
-                    "text": newYearItem.quote,
-                    "wrap": true,
-                    "size": "lg",
-                    "margin": "md"
+                    type: "text",
+                    text: newYearItem.title,
+                    align: "center",
+                    color: "#2F3A56",
+                    size: "lg",
+                    margin: "md"
+                  },
+                  {
+                    type: "text",
+                    text: newYearItem.quote,
+                    wrap: true,
+                    size: "lg",
+                    margin: "md",
+                    align: "start",
+                    color: "#444444"
                   }
                 ]
               }
