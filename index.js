@@ -46,58 +46,53 @@ const isNewYearTaskTime = () => {
 if (isNewYearTaskTime()) {
   console.log("select quote：", newYearItem);
   try {
-    await axios.post(
-      "https://api.line.me/v2/bot/message/push",
-      {
-        to: process.env.USER_ID,
-        messages: [
-          {
-            type: "flex",
-            altText: "春節教戰手則",
-            contents: {
-              type: "bubble",
-              body: {
-                type: "box",
-                layout: "vertical",
-                contents: [
-                  {
-                    type: "text",
-                    text: "春節教戰手則",
-                    align: "center",
-                    color: "#222222",
-                    size: "lg",
-                    margin: "none"
-                  },
-                  {
-                    type: "text",
-                    text: newYearItem.title,
-                    align: "center",
-                    color: "#2F3A56",
-                    size: "lg",
-                    margin: "md"
-                  },
-                  {
-                    type: "text",
-                    text: newYearItem.quote,
-                    wrap: true,
-                    size: "lg",
-                    margin: "md",
-                    align: "start",
-                    color: "#444444"
-                  }
-                ]
-              }
+    await axios.post("https://api.line.me/v2/bot/message/broadcast", {
+      messages: [
+        {
+          type: "flex",
+          altText: "春節教戰守則",
+          contents: {
+            type: "bubble",
+            body: {
+              type: "box",
+              layout: "vertical",
+              contents: [
+                {
+                  type: "text",
+                  text: "春節教戰守則",
+                  align: "center",
+                  color: "#222222",
+                  size: "lg",
+                  margin: "none"
+                },
+                {
+                  type: "text",
+                  text: newYearItem.title,
+                  align: "center",
+                  color: "#000093",
+                  size: "lg",
+                  margin: "md"
+                },
+                {
+                  type: "text",
+                  text: newYearItem.quote,
+                  wrap: true,
+                  size: "lg",
+                  margin: "md",
+                  align: "start",
+                  color: "#444444"
+                }
+              ]
             }
           }
-        ]
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${process.env.CHANNEL_ACCESS_TOKEN}`
         }
+      ]
+    }, {
+      headers: {
+        "Authorization": `Bearer ${process.env.CHANNEL_ACCESS_TOKEN}`,
+        "Content-Type": "application/json"
       }
-    );
+    });
     console.log("✅ success");
     fs.writeFileSync(newYearPath, JSON.stringify(newYears, null, 2), "utf8");
   } catch (err) {
