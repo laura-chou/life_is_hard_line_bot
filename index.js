@@ -37,7 +37,7 @@ const isNewYearTaskTime = () => {
   const day = Number(parts.find(p => p.type === "day").value);
   const hour = Number(parts.find(p => p.type === "hour").value);
 
-  const inDateRange = (month === 2 && day >= 13 && day <= 15);
+  const inDateRange = (month === 2 && day >= 16 && day <= 21);
   const inHour = (hour === 10);
 
   return inDateRange && inHour;
