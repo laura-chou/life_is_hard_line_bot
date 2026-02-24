@@ -110,21 +110,36 @@ const createContents = (data) => {
   return flexMessage;
 }
 
+const tokens = [
+  process.env.CHANNEL1_ACCESS_TOKEN,
+  process.env.CHANNEL2_ACCESS_TOKEN
+];
+
 async function broadcastMessage(data) {
   console.log("select quote：", data);
   try {
-    await axios.post("https://api.line.me/v2/bot/message/broadcast", {
+    const payload = {
       messages: [{
-        "type": "flex",
-        "altText": data.title,
-        "contents": createContents(data)
+        type: "flex",
+        altText: data.title,
+        contents: createContents(data)
       }]
-    }, {
-      headers: {
-        "Authorization": `Bearer ${process.env.CHANNEL_ACCESS_TOKEN}`,
-        "Content-Type": "application/json"
-      }
-    });
+    };
+
+    await Promise.all(
+      tokens.map(token =>
+        axios.post(
+          "https://api.line.me/v2/bot/message/broadcast",
+          payload,
+          {
+            headers: {
+              Authorization: `Bearer ${token}`,
+              "Content-Type": "application/json"
+            }
+          }
+        )
+      )
+    );
     console.log("✅ success");
   } catch (error) {
     console.error("❌ fail：", error.response?.data || error.message);
