@@ -398,11 +398,6 @@
         "imageUrl": "https://cdn.pixabay.com/photo/2017/01/28/22/52/bread-2016757_640.jpg"
       },
       {
-        "quote": "義大利的千層麵最早記錄於中世紀，原型是平板麵與肉醬層層堆疊的節慶料理。",
-        "summary": "Lasagna是中世紀的層層祝福",
-        "imageUrl": "https://cdn.pixabay.com/photo/2017/02/15/15/17/meal-2069021_640.jpg"
-      },
-      {
         "quote": "秘魯酸橘汁醃魚起源於秘魯沿海的古代文明，早期以鹽與辣椒保存生魚。後來西班牙人帶入檸檬，形成現代風味。如今成為秘魯國菜，並遍布整個拉丁美洲。",
         "summary": "Ceviche是秘魯海岸的清爽鮮味",
         "imageUrl": "https://cdn.pixabay.com/photo/2015/02/17/20/05/ceviche-639900_1280.jpg"
@@ -566,11 +561,6 @@
         "quote": "鼠尾草的英文名稱源自拉丁語「salvere」，意為「治癒」或「拯救」，反映了它在歷史上作為藥用植物的重要地位。",
         "summary": "Sage草本中的治癒象徵",
         "imageUrl": "https://cdn.pixabay.com/photo/2018/07/30/14/15/sage-3572718_1280.jpg"
-      },
-      {
-        "quote": "快樂鼠尾草的氣味具有類似麝香和琥珀的濃郁層次感，在芳香療法中是廣受歡迎的精油，常被認為能帶來幸福感。",
-        "summary": "Clary Sage芳香中的快樂來源",
-        "imageUrl": "https://cdn.pixabay.com/photo/2021/06/09/10/48/clary-sage-6323070_640.jpg"
       },
       {
         "quote": "番紅花是世界上最昂貴的香料，它來自於番紅花花朵的紅色柱頭(雌蕊頂部)，每公斤需要從數萬朵花中手工採集。",
@@ -947,11 +937,6 @@
         "imageUrl": "https://cdn.pixabay.com/photo/2016/05/25/11/49/scuba-1414587_1280.jpg"
       },
       {
-        "quote": "海龜能在海洋中長途遷徙，部分物種可跨越數千公里回到出生地繁殖。牠們依靠地球磁場作為導航工具，展現驚人的方向感。",
-        "summary": "Sea Turtle是磁場導航的遠行者",
-        "imageUrl": "https://cdn.pixabay.com/photo/2017/05/18/09/30/turtle-2323059_1280.jpg"
-      },
-      {
         "quote": "地球上最高的瀑布並不在陸地上，而是在北大西洋海底的「丹麥海峽下潛流」，落差超過3,500公尺，遠超任何陸地瀑布。",
         "summary": "海底隱藏著世界最高瀑布"
       },
@@ -1306,10 +1291,6 @@
         "summary": "生氣成本太高，心累不值得"
       },
       {
-        "quote": "壓抑情緒的技巧：裝作理性。",
-        "summary": "理性是假象，心累是真實"
-      },
-      {
         "quote": "哭不出來不是堅強，是麻木。",
         "summary": "心累到無力，眼淚也休假"
       },
@@ -1451,10 +1432,6 @@
         "summary": "靈魂已離線，請勿呼叫"
       },
       {
-        "quote": "努力只是用來掩飾自己其實很無能的事實。",
-        "summary": "人們都在假裝忙碌，其實都在逃避問題"
-      },
-      {
         "quote": "通勤不是移動，是你每天自願參加的壓力暖身操。",
         "summary": "你還沒開始工作，已經累了"
       },
@@ -1523,10 +1500,6 @@
         "summary": "健康警告：心累"
       },
       {
-        "quote": "你的崩潰別人看不到，但你的疲累全世界知道。",
-        "summary": "默默承受，默默崩潰"
-      },
-      {
         "quote": "你不是被批評，是被職場教育。",
         "summary": "職場版的強迫成長"
       },
@@ -1549,10 +1522,6 @@
       {
         "quote": "老闆開會永遠說得天花亂墜，實際做的事卻像放鴿子一樣遲緩。",
         "summary": "說得多，做得少，員工累成狗"
-      },
-      {
-        "quote": "每天忙到飛起來，老闆一句話就能讓你心情從天堂掉到地獄。",
-        "summary": "忙碌背後藏著無限的無奈"
       },
       {
         "quote": "職場最厲害的技能不是專業，而是演戲——學會裝忙和笑臉迎人。",
@@ -3457,10 +3426,6 @@
         "summary": "Friedrich Nietzsche 尼采"
       },
       {
-        "quote": "He who has a why to live can bear almost any how.\n一個人知道自己為什麼而活，就可以忍受任何一種生活。",
-        "summary": "Friedrich Nietzsche 尼采"
-      },
-      {
         "quote": "Every man takes the limits of his own field of vision for the limits of the world.\n每個人都將自己視野的極限誤認為是世界的極限。",
         "summary": "Arthur Schopenhauer 叔本華"
       },
@@ -3483,10 +3448,6 @@
       {
         "quote": "To estimate a man's happiness, we should not ask what gives him pleasure, but rather what trifles vex him.\n衡量一個人是否幸福，不應該看他擁有多少高興的事，而應該看他是否正為一些瑣碎小事而煩惱。",
         "summary": "Arthur Schopenhauer 叔本華"
-      },
-      {
-        "quote": "To live is the rarest thing in the world. Most people exist, that is all.\n活著是世界上最罕見的事情。大多數人只是存在，僅此而已。",
-        "summary": "Oscar Wilde 奧斯卡・王爾德"
       },
       {
         "quote": "Life is never fair... And perhaps it is a good thing for most of us that it is not.\n人生從來就不公平，或許對我們大多數人來說，這反而是件好事。",
@@ -4306,11 +4267,6 @@
         "quote": "劇情驚悚片，由艾莫芮德·芬諾執導並編劇，凱莉·墨里根主演。該片以大快人心的復仇故事，控訴了性侵文化與包庇性侵犯的社會體制。",
         "summary": "🔗 2020《花漾女子》\n(Promising Young Woman)",
         "url": "https://www.youtube.com/watch?v=D9cAM8xD5MQ"
-      },
-      {
-        "quote": "傳記劇情片，以皇后合唱團(Queen)的崛起為核心，講述了佛萊迪·墨裘瑞(Freddie Mercury)從一名機場行李搬運員，逐漸成為搖滾巨星的過程。",
-        "summary": "🔗 2018《波希米亞狂想曲》\n(Bohemian Rhapsody)",
-        "url": "https://www.youtube.com/watch?v=2w3WtmVdsU0"
       },
       {
         "quote": "喜劇劇情片，由葛莉塔·潔薇自編自導。這部電影是她的導演處女作，以半自傳性質的方式，講述一名成長在加州沙加緬度的高中少女，與母親之間充滿衝突卻又緊密連結的關係。",
